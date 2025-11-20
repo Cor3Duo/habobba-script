@@ -1,1 +1,1 @@
-"# habobba-script" 
+# habobba-script
